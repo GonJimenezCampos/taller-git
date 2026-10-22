@@ -13,4 +13,4 @@
 | 192.168.10.30 | imp-recepcion | Impresora de recepción | Javi |
 | 192.168.10.31 | imp-administracion | Impresora de administración | Ana |
 | 192.168.10.32 | imp-direccion | Impresora de dirección | Ana |
-| 192.168.10.50 | portatil-direccion | Portátil de dirección | Carlos |
+| 192.168.10.50 | srv-impresion | Servidor de impresión (CUPS) | Javi |
