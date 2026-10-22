@@ -1,2 +1,4 @@
-- **Portátil Dirección**: 192.168.10.15
-- **Servidor de impresión**: 192.168.10.50
+| Dispositivo | IP |
+| --- | --- |
+| Portátil Dirección | 192.168.10.15 |
+| Servidor de impresión | 192.168.10.50 |
