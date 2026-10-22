@@ -15,3 +15,4 @@
 | 192.168.10.32 | imp-direccion | Impresora de dirección | Ana |
 | 192.168.10.50 | srv-impresion | Servidor de impresión (CUPS) | Javi |
 - **Portátil Dirección**: 192.168.10.15
+- **Portátil Dirección**: 192.168.10.15
