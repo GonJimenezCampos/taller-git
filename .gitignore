@@ -1,5 +1,5 @@
 # Archivos con contraseñas o secretos
-secretos.txt
+secreto.txt
 .env
 
 # Registros (logs)
