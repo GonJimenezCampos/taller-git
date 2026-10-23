@@ -1,4 +1,4 @@
-# Procedimiento: registro de incidencias
+ç# Procedimiento: registro de incidencias
 
 Cuando alguien avisa de un problema:
 
