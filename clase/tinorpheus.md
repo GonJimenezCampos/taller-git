@@ -1,6 +1,6 @@
-# Nombre Apellido
+# Jesus Gomez
 
-- **Usuario de GitHub:** @tu-usuario
+- **Usuario de GitHub:** @tinorpheus
 - **Ciclo:** 2º de SMR
 - **Me interesa sobre todo:** (redes, hardware, ciberseguridad, servidores, soporte...)
 - **El comando de Git que más me ha gustado:** `git ...`
